@@ -1563,6 +1563,11 @@ alphanum-sort@^1.0.2:
   resolved "https://registry.yarnpkg.com/alphanum-sort/-/alphanum-sort-1.0.2.tgz#97a1119649b211ad33691d9f9f486a8ec9fbe0a3"
   integrity sha1-l6ERlkmyEa0zaR2fn0hqjsn74KM=
 
+angular-gantt-chart@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/angular-gantt-chart/-/angular-gantt-chart-1.2.0.tgz#62abeb08b365b4f41698375509fa1d28f206c50d"
+  integrity sha1-YqvrCLNltPQWmDdVCfodKPIGxQ0=
+
 ansi-colors@4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/ansi-colors/-/ansi-colors-4.1.1.tgz#cbb9ae256bf750af1eab344f229aa27fe94ba348"

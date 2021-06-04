@@ -1,7 +1,6 @@
 import {BrowserModule} from "@angular/platform-browser";
 import {NgModule} from "@angular/core";
 import {AppComponent} from "./app.component";
-// @ts-ignore
 import {GanttChart} from "angular-gantt-chart";
 
 @NgModule({
@@ -13,9 +12,7 @@ import {GanttChart} from "angular-gantt-chart";
         GanttChart
     ],
     providers: [],
-    bootstrap: [
-        AppComponent
-    ]
+    bootstrap: [AppComponent]
 })
 
 export class AppModule {

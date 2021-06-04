@@ -48,8 +48,8 @@ export class AppComponent {
         ]
     }
     public gantt_chart_options = {
-        rectColor: "red",
-        lineColor: "black",
-        labelColor: "green"
+        rectColor: "#ff0000",
+        lineColor: "#000000",
+        labelColor: "#008000"
     }
 }

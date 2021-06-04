@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /usr/local/Cellar/yarn/1.22.10/libexec/bin/yarn.js add angular-gant --save
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.22.10/libexec/bin/yarn.js add angulat-gantt-chart
 
 PATH: 
   /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin
@@ -14,7 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/angular-gant: Not found
+  Error: https://registry.yarnpkg.com/angulat-gantt-chart: Not found
       at Request.params.callback [as _callback] (/usr/local/Cellar/yarn/1.22.10/libexec/lib/cli.js:66988:18)
       at Request.self.callback (/usr/local/Cellar/yarn/1.22.10/libexec/lib/cli.js:140749:22)
       at Request.emit (events.js:315:20)
@@ -47,7 +47,7 @@ npm manifest:
       "@angular/platform-browser": "~12.0.3",
       "@angular/platform-browser-dynamic": "~12.0.3",
       "@angular/router": "~12.0.3",
-      "rxjs": "~6.6.0",
+      "rxjs": "6.6.0",
       "tslib": "^2.1.0",
       "zone.js": "~0.11.4"
     },
